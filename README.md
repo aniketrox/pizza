@@ -1,1 +1,3 @@
-# pizza
+# GOOGLE HASHCODE PROBLEM SOLUTION 2021 -- PIZZA PROBLEM
+
+Problem solved using python.
